@@ -15,7 +15,7 @@ Welcome to my personal portfolio website! This is a simple, responsive portfolio
 - **Repo 1** - Description of Repo 1
 - **Repo 2** - Description of Repo 2
 
-remote_theme: CAYMAN
+#remote_theme: CAYMAN
 
 ### Undergraduate Research
 - **Research 1** - Topic of Research 1
